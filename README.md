@@ -40,16 +40,11 @@ The Bank Management System utilizes Object-Oriented Programming (OOP) principles
 
 Upon account creation, the user's details are stored in a database on the MySQL Server, and a unique account number and PIN is generated. For deposits and withdrawals, the system updates the account balance accordingly and records the transaction in the mini statement. Users can check their balance, and the system will display the recent transactions.
 
-## Future Enhancements
+## Updated Enhancements Include
 
-The current version of the Bank Management System offers basic functionality. Here are some potential enhancements for the future:
+1. Implementation a user authentication system with passwords and PINs for added security.
 
-1. Implementing a user authentication system with passwords and PINs for added security.
+2. Allowing users to choose from an increased range of services
 
-2. Allowing users to transfer funds between accounts.
-
-3. Adding support for multiple account types like savings and checking accounts.
-
-4. Enabling multi-language support.
-5. Enhancing User Interface aiming on increased accessibility.
+3. Enhanced User Interface aiming on increased accessibility.
 
